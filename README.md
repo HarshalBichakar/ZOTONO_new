@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# 🏪 Zotono
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> **A Justdial-like business listing platform**  
+> _Built with React.js, Node.js, and MongoDB_
 
-## Available Scripts
+[🌐 Live Demo – Coming Soon...🚀) 
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📋 Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [About the Project](#about-the-project)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Getting Started](#getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+- [Usage](#usage)  
+- [Contact](#contact)  
+- [License](#license)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 About the Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Zotono** is a business directory and search platform that allows users to explore local businesses by category, name, or keyword — similar to Justdial. It includes real-time search, responsive design, and a dynamic database-driven listing system.
 
-### `npm run build`
+### 💡 Key Use Cases:
+- Business owners can list their services
+- Customers can browse or search nearby businesses
+- Search results update in real-time as users type
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ✨ Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Real-time search and filtering  
+- Business details page with contact & location  
+- Responsive UI for mobile and desktop  
+- Category-wise listings  
+- REST API backend for dynamic data management  
+- Admin panel for managing listings (optional/advanced)
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> This project is built using the MERN stack:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- ⚛️ **React.js** – Frontend  
+- 🌐 **Node.js** + **Express.js** – Backend API  
+- 🗃️ **MongoDB** – NoSQL Database  
+- 💅 **Tailwind CSS** or **Bootstrap** – Styling  
+- 🔄 **Axios** – API communication  
+- 🧰 **Postman** – API testing/debugging  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## ⚙️ Getting Started
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Follow these steps to set up the project locally.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### ✅ Prerequisites
 
-### Code Splitting
+- Node.js v14+  
+- MongoDB (local or cloud with MongoDB Atlas)  
+- Git  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 🔧 Installation
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/HarshalBichakar/ZOTONO_new.git
+   cd ZOTONO_new
